@@ -1,0 +1,41 @@
+html {
+  background: url("img/camp-nou-football-stadium-qbnzfwihe2sd65w0.jpg")
+    no-repeat center fixed;
+  background-size: cover;
+}
+
+.center {
+  text-align: center;
+  display: block;
+}
+body {
+  background-color: rgb(255, 228, 207);
+  border-radius: 20px;
+
+  margin: auto;
+  padding: 25px 150px 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 450px;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(151, 73, 0);
+  font-size: 25px;
+}
+
+.centerimage {
+  margin-left: auto;
+  margin-right: 600px;
+
+  border-radius: 20px;
+}
+
+.darkred {
+  color: darkred;
+}
+
+.tiny {
+  font-size: 10px;
+  color: rgb(77, 64, 248);
+}
